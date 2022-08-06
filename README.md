@@ -1,2 +1,2 @@
 # Maze-Generator
-It generates a maze automatically
+It generates a maze and finds the best path automatically
